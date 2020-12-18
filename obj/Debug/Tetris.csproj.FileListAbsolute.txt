@@ -1,0 +1,28 @@
+C:\Users\Rio\Documents\Dropbox\Unity_Course\C#_Study\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Rio\Documents\Dropbox\Unity_Course\C#_Study\Tetris\bin\Debug\Tetris.exe
+C:\Users\Rio\Documents\Dropbox\Unity_Course\C#_Study\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Rio\Documents\Dropbox\Unity_Course\C#_Study\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Rio\Documents\Dropbox\Unity_Course\C#_Study\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Rio\Documents\Dropbox\Unity_Course\C#_Study\Tetris\obj\Debug\Tetris.exe
+C:\Users\Rio\Documents\Dropbox\Unity_Course\C#_Study\Tetris\obj\Debug\Tetris.pdb
+E:\____Myth\____________OldData\surface backup\Unity_Course\C#_Study\Tetris\bin\Debug\Tetris.exe.config
+E:\____Myth\____________OldData\surface backup\Unity_Course\C#_Study\Tetris\bin\Debug\Tetris.exe
+E:\____Myth\____________OldData\surface backup\Unity_Course\C#_Study\Tetris\bin\Debug\Tetris.pdb
+E:\____Myth\____________OldData\surface backup\Unity_Course\C#_Study\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+E:\____Myth\____________OldData\surface backup\Unity_Course\C#_Study\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+E:\____Myth\____________OldData\surface backup\Unity_Course\C#_Study\Tetris\obj\Debug\Tetris.exe
+E:\____Myth\____________OldData\surface backup\Unity_Course\C#_Study\Tetris\obj\Debug\Tetris.pdb
+D:\_C_O_D_E_\Tetris\bin\Debug\Tetris.exe.config
+D:\_C_O_D_E_\Tetris\bin\Debug\Tetris.exe
+D:\_C_O_D_E_\Tetris\bin\Debug\Tetris.pdb
+D:\_C_O_D_E_\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+D:\_C_O_D_E_\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\_C_O_D_E_\Tetris\obj\Debug\Tetris.exe
+D:\_C_O_D_E_\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Rio Hiroshi\Documents\Unity\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Rio Hiroshi\Documents\Unity\Tetris\bin\Debug\Tetris.exe
+C:\Users\Rio Hiroshi\Documents\Unity\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Rio Hiroshi\Documents\Unity\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Rio Hiroshi\Documents\Unity\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Rio Hiroshi\Documents\Unity\Tetris\obj\Debug\Tetris.exe
+C:\Users\Rio Hiroshi\Documents\Unity\Tetris\obj\Debug\Tetris.pdb
